@@ -21,9 +21,9 @@
 #define pll pair<ll,ll>
 using namespace std;
 void TANJIR0U();
-const int mod=1e9+7, oo=0x3f3f3f3f, N=1e5+9, 
-LOG=18, P1=31, P2=37;
-const ll loo=0x3f3f3f3f3f3f3f3f;
+const int mod = 1e9+7, oo = 0x3f3f3f3f, N = 1e5+9,
+LOG = 18, P1 = 31, P2 = 37;
+const ll loo = 0x3f3f3f3f3f3f3f3f;
 //string steps = "RLUD";
 //int dx[4] = {0, 0, -1, 1};
 //int dy[4] = {1, -1, 0, 0};
@@ -31,7 +31,7 @@ const ll loo=0x3f3f3f3f3f3f3f3f;
 //int dy[8] = {1, 1, 1, 0, 0, -1, -1, -1};
 
 void solve() {
-    
+
 }
 
 int main() {
